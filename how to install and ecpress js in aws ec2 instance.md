@@ -1,6 +1,4 @@
-# RES_EXPRESS
-
-How to Install and Run an Express.js Application:
+#How to Install and Run an Express.js Application:
 
 1. Install Node.js:
    - Use the following commands to install Node.js and npm (Node Package Manager):
